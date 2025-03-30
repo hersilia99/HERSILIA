@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" 
         integrity="sha512-pVn+7Wn6O0Kly2Nw+1FxXb4RxjPdP/vp3+SW7jCkZCEwZt2z9hFJAZ4xGXwxh6+8ZldLqkVXhT++5IuHnF3n0g==" 
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+ /* HEADER */
   <style>
     /* Estilos globales */
     body {
@@ -197,6 +198,7 @@
 <body>
   <!-- Encabezado -->
     <div class="container">
+     <div class="logo">
         <div class="logo-title">HERSILIA</div>
         <div class="logo-subtitle">CENTRO PSICOLOGICO INTEGRAL</div>
       </div>
