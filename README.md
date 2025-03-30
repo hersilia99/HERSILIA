@@ -198,6 +198,9 @@
 <body>
   <!-- Encabezado -->
   <header>
+    <div class="image-section">
+  <img src="https://drive.google.com/uc?id=1-kO9QiaOVwYKcEMB_rMl4h1gWcOn4Z4U" alt="Imagen de Hersilia" width="100%">
+</div>
     <div class="container">
       <div class="logo">
         <div class="logo-title">HERSILIA</div>
