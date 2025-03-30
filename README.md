@@ -7,7 +7,6 @@
   <title>HERSILIA - Centro Psicologico Integral</title>
         integrity="sha512-pVn+7Wn6O0Kly2Nw+1FxXb4RxjPdP/vp3+SW7jCkZCEwZt2z9hFJAZ4xGXwxh6+8ZldLqkVXhT++5IuHnF3n0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-  [![Sin-t-tulo-1.jpg](https://i.postimg.cc/66YsLK0z/Sin-t-tulo-1.jpg)](https://postimg.cc/0rMHPLhJ) 
   <style>
     /* Estilos globales */
     body {
