@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HERSILIA – Centro Psicológico Integral</title>
-  <!-- Fuentes y Font Awesome -->
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" 
-        integrity="sha512-V4f/9L8W8b0x9v6Otvw+u1PZ1p9sZyWmKl2B6QeV+75xS4kRZL8T+Tdz2U9DIs2PZ8f8w4G9iYHc+1cF4z/+I3A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    /* RESET Y BASE */
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Open Sans', sans-serif;
-      background-color: #fff;
-      color: #333;
-      line-height: 1.6;
-      scroll-behavior: smooth;
-    }
-    a { text-decoration: none; color: inherit; transition: color 0.3s; }
-    a:hover { color: #6683ff; }
-    img { max-width: 100%; display: block; }
-    .container { width: 90%; max-width: 1200px; margin: auto; padding: 20px; }
-    <html lang="es">
+ <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -221,7 +197,6 @@
 <body>
   <!-- Encabezado -->
     <div class="container">
-            <div class="logo">
         <div class="logo-title">HERSILIA</div>
         <div class="logo-subtitle">CENTRO PSICOLOGICO INTEGRAL</div>
       </div>
