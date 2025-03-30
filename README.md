@@ -1,4 +1,6 @@
-
+  <head>
+  <meta charset="UTF-8">
+  <title>HERSILIA - Centro Psicologico Integral</title>
   <style>
     /* Estilos globales */
     body {
