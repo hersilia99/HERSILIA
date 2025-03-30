@@ -1,4 +1,8 @@
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>HERSILIA - Centro Psicologico Integral</title>
   <!-- Fuente personalizada -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
@@ -249,12 +253,18 @@
         <p><strong>Email:</strong> <a href="mailto:hersilia.ec@outlook.com">hersilia.ec@outlook.com</a></p>
         <p><strong>Dirección:</strong> Hersilia Centro Psicológico Integral</p>
       </div>
-      <div class="socials">
-        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i> Facebook</a>
-        <a href="#" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
-        <a href="#" target="_blank"><i class="fab fa-tiktok"></i> TikTok</a>
-      </div>
-      <form action="URL_DE_TU_SERVIDOR_O_SCRIPT" method="POST">
+<div class="socials">
+  <a href="https://www.facebook.com/people/Centro-Psicol%C3%B3gico-Integral-Hersilia/100064794828756/" target="_blank">
+    <i class="fab fa-facebook"></i> Facebook
+  </a>
+  <a href="https://www.instagram.com/hersilia.ec/" target="_blank">
+    <i class="fab fa-instagram"></i> Instagram
+  </a>
+  <a href="https://www.tiktok.com/@hersilia.ec" target="_blank">
+    <i class="fab fa-tiktok"></i> TikTok
+  </a>
+</div>
+<form action="URL_DE_TU_SERVIDOR_O_SCRIPT" method="POST">
         <input type="text" name="nombre" placeholder="Nombre completo" required>
         <input type="email" name="correo" placeholder="Correo electrónico" required>
         <input type="tel" name="telefono" placeholder="Número de teléfono">
